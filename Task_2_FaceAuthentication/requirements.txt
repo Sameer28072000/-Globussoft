@@ -1,0 +1,7 @@
+fastapi             # Framework for building REST APIs in Python
+uvicorn             # ASGI server used to run FastAPI applications
+opencv-python       # Image processing and computer vision operations
+numpy               # Numerical computations and image array manipulation
+insightface         # Face detection and face recognition library
+onnxruntime         # Runs ONNX models used by InsightFace
+python-multipart    # Handles file uploads (images/forms) in FastAPI
