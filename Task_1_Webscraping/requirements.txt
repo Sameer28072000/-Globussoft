@@ -1,0 +1,6 @@
+# Dependencies
+selenium>=4.20.0          # Browser automation for interacting with Amazon pages
+beautifulsoup4>=4.12.0    # HTML parsing and data extraction
+pandas>=2.0.0             # Data manipulation and CSV export
+lxml>=5.0.0               # Fast HTML/XML parser used by BeautifulSoup
+webdriver-manager>=4.0.0  # Automatically downloads and manages ChromeDriver
